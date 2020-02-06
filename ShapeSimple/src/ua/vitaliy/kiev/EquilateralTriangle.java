@@ -27,7 +27,7 @@ public class EquilateralTriangle {
 
         BufferedReader userInput = new BufferedReader(new InputStreamReader(System.in));
 
-        System.out.print("Insert odd equilateral triangle dimension (one-side length): ");
+        System.out.print("Insert equilateral triangle dimension (one-side length): ");
         int triangleDimension = Integer.parseInt(userInput.readLine());
 
         if (triangleDimension != 0) {
