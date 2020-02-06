@@ -16,8 +16,6 @@ public class EquilateralTriangle {
                         (i == triangleDimension - 1 && (j % 2 != 0))) {
                     System.out.print("*");
                 } else System.out.print(" ");
-
-                if (i == triangleDimension - 1 && j == triangleDimension + triangleDimension - 1) break;
             }
             System.out.print("\n");
         }
