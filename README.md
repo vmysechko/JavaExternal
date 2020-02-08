@@ -1,6 +1,7 @@
 # JavaExternal
 
 ** Repository for EJC projects **
+<br>
 ![BB-8](https://github.com/vmysechko/JavaExternal/blob/master/pics/BB-8_small.jpg)
 
 ## Project Links
