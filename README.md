@@ -10,5 +10,5 @@
 * Task 02: [JavaGameMVC](https://github.com/vmysechko/JavaExternal/tree/master/Task02_JavaGameMVC)
 * Task 03: [Droids Battle] 
 
-Author 
+Author <br> 
 Vitaliy Mysechko
