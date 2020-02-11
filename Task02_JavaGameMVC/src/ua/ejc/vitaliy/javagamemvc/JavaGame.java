@@ -5,7 +5,6 @@ public class JavaGame {
         Model playerModel = new Model();
         View playerView = new View();
         Controller controller = new Controller(playerModel, playerView);
-        controller.startGame(0, 100, 10);
-
+        controller.startGame(10);
     }
 }
